@@ -4,4 +4,4 @@
 #### storyline vs gamepaly
 - [做游戏应该先确定玩法还是确定故事框架与世界观？-奶牛关](https://cowlevel.net/question/1967064)
 #### The chronicle of electronic game 
-- 1948.12.14  —— [Cathode ray tube amusement device](http://www.pong-story.com/2455992.pdf)
+- 1948.12.14  —— [Cathode ray tube amusement device](http://www.pong-story.com/2455992.pdf) (阴极射线管娱乐装置)
