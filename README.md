@@ -6,5 +6,5 @@
 #### Early(1962-1969)
 - 1962 ——[Spacewar](https://archive.org/details/pdp1_spacewar)(太空大战)
 - 1969 ——[Space Travel](https://www.youqu.ovh/%E5%AD%A6%E4%B9%A0/zh/%E6%98%9F%E9%99%85%E6%97%85%E8%A1%8C_(1969%E5%B9%B4%E6%B8%B8%E6%88%8F))(星际旅行）
-#### First generation(1972-1980)
+#### First generation(1971-1980)
 - 1971.09 ——[Galaxy Game](http://allincolorforaquarter.blogspot.com/2013/03/galaxy-game.html)(银河游戏）
