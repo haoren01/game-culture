@@ -10,4 +10,9 @@
 - 1971 ——[Computer space](https://en.wikipedia.org/wiki/Computer_Space)(电脑空间）
 #### First generation(1972-1980)
 - 1972 ——[Pong](http://www.ponggame.org/)(乓)
-
+- 1978 ——[Space Invaders](https://www.arcade-museum.com/game_detail.php?letter=S&game_id=9662)(太空侵略者）
+- 1978 ——[Asteroid](http://www.freeasteroids.org/)(爆破彗星)
+- 1980 ——[Pac-Man](https://www.google.com/doodles/30th-anniversary-of-pac-man)(吃豆人)
+- 
+#### Second generation(1977-1983)
+-
