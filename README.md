@@ -9,4 +9,5 @@
 - 1971.09 ——[Galaxy Game](http://allincolorforaquarter.blogspot.com/2013/03/galaxy-game.html)(银河游戏）
 - 1971 ——[Computer space](https://en.wikipedia.org/wiki/Computer_Space)(电脑空间）
 #### First generation(1972-1980)
-- 
+- 1972 ——[Pong](http://www.ponggame.org/)(乓)
+
