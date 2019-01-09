@@ -12,11 +12,11 @@
 - 1972 ——[Pong](http://www.ponggame.org/)(乓)
 - 1978 ——[Space Invaders](https://www.arcade-museum.com/game_detail.php?letter=S&game_id=9662)(太空侵略者）
 - 1978 ——[Asteroid](http://www.freeasteroids.org/)(爆破彗星)
-- 1980 ——[Pac-Man](https://www.google.com/doodles/30th-anniversary-of-pac-man)(吃豆人) - 第一个游戏角色以其自己本身形象获得大众肯定的游戏
+- 1980 ——[Pac-Man](https://www.google.com/doodles/30th-anniversary-of-pac-man)(吃豆人) - 游戏角色获得大众肯定
 - 
 #### Second generation(1977-1983)
-- 1980 ——[Battlezone](https://www.retrogames.cz/play_110-Atari2600.php)(战争地带) - 利用线框向量图形来创造第一个真正的三维游戏世界
+- 1980 ——[Battlezone](https://www.retrogames.cz/play_110-Atari2600.php)(战争地带) - 利用线框向量图形创造三维游戏世界
 - 1981.02 ——[Defender](http://www.free80sarcade.com/defender.php)(保卫者)  - 第一个卷轴射击游戏
 - 1982 ——[Dungeons_of_Daggorath](https://archive.org/details/coco2cart_Dungeons_of_Daggorath_1982_26-3093_DynaMicro)(戴格拉斯地下城) - 添加了各种类型的武器与怪物、细致的音效、和一个“心跳”的血条
-- 1982 ——[Pole Position](https://www.retrogames.cz/play_064-Atari2600.php)(杆位) - 利用平面贴图伪三维图形首创“车手尾视模式”：玩者视角是位于车后或车顶，朝地平线望去
+- 1982 ——[Pole Position](https://www.retrogames.cz/play_064-Atari2600.php)(杆位) - 利用平面贴图伪三维图形首创“车手尾视模式”
 - 
