@@ -17,6 +17,6 @@
 - 1980 ——[Battlezone](https://www.retrogames.cz/play_110-Atari2600.php)(战争地带) --- 三维世界
 - 1981.02 ——[Defender](http://www.free80sarcade.com/defender.php)(保卫者)  --- 卷轴射击
 - 1982 ——[Dungeons_of_Daggorath](https://archive.org/details/coco2cart_Dungeons_of_Daggorath_1982_26-3093_DynaMicro)(戴格拉斯地下城) --- 武器与怪物、音效、“心跳”的血条
-- 1982 ——[Pole Position](https://www.retrogames.cz/play_064-Atari2600.php)(杆位) --- “车手尾视模式
+- 1982 ——[Pole Position](https://www.retrogames.cz/play_064-Atari2600.php)(杆位) --- "车手尾视模式"
 -
 /由于时间缘故，暂停更新。。。
